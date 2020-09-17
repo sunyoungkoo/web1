@@ -1,1 +1,22 @@
-# web1
+<!doctyp html>
+<html>
+<head>
+  <title> koala </title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <a href="2.html">
+  <img src="elephant.png" width="100px">
+</a>
+  <a href="3.html">
+  <img src="zebra.png" width="100px">
+</a>
+  <P><P style="margin-top:150px;">
+  <img src="koala.jpg" width="500px">
+</P>
+  <h1>nice a day!</h1>
+  <h2>nice a day!</h2>
+  <h3>nice a day!</h3>
+  sluggish tailless Australian arboreal marsupial with grey furry ears and coat
+  feeds on eucalyptus leaves and bark
+</body>
