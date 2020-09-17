@@ -1,7 +1,5 @@
-<!doctyp html>
-<html>
+
 <head>
-  <title> koala </title>
   <meta charset="utf-8">
 </head>
 <body>
